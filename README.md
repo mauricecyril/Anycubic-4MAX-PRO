@@ -60,8 +60,11 @@ Printer
         G90
         M300 P300 S4000        
 
+
 Extruder 1
+
     Nozzle Settings
+    
         Nozzle Size: 0.4 mm
         Compatible Material Diameter: 1.75 mm
         Nozzle Offset X: 0 mm
