@@ -9,7 +9,9 @@ Settings / Printer / Manage Printers
 Edit Machine Settings
 
 Printer
+
     Printer Settings
+    
         X (Width): 270mm
         Y (Depth): 205 mm
         Z (Height): 205 mm
