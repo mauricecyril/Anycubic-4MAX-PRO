@@ -12,9 +12,14 @@ There is also a daughter board connected which has the pins for the end stops.
 
 ### Purchase a genuine BLTouch
 Try to acquire a genuine BLTouch device as there are reports of clones generally failing or having quality issues.
+Make sure to also get the 1.5m extension wire with the dupont connectors.
 
-### Remove Cover
+### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
+
+### Remove Back Cover
+Remove the 8 screws on the back panel to get run the extension cable through the existing cable management. You may want to add your own zip ties to anchor the new wires.
+
 
 # Ultimaker Cura 4.4 Settings for the Anycubic 4Max Pro
 If "Origin at Center" is checked when slicing the printer seems to print off the printbed and in the lower left quadrant. Recommendation is to keep this setting unchecked. 
