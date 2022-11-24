@@ -1,5 +1,5 @@
 # Anycubic-4MAX-PRO
-Settings and Notes Related to the Anycubic 4Max Pro 3D Printer
+Settings and Notes Related to the Anycubic 4Max Pro 3D Printer.
 
 # Ultimaker Cura 4.4 Settings for the Anycubic 4Max Pro
 If "Origin at Center" is checked when slicing the printer seems to print off the printbed and in the lower left quadrant. Recommendation is to keep this setting unchecked. 
@@ -80,3 +80,31 @@ Extruder 1
     
 # Octoprint Settings
 
+
+# Sources
+
+## Thingiverse
+Anycubic 4Max Pro Cable Chain by wadzio October 15, 2019
+https://www.thingiverse.com/thing:3918237
+
+Anycubic 4Max Pro Cable Chain - fixed parts by BgB42O June 14, 2020
+https://www.thingiverse.com/thing:4459661
+
+Vortex Fan Duct for Anycubic 4Max Pro by ontherunstudio July 26, 2019
+https://www.thingiverse.com/thing:3772311
+
+Anycubic 4Max Pro 2.0 Print head lid by alex_trask August 16, 2021
+https://www.thingiverse.com/thing:4934115
+
+4max pro Cura 4.1 profiles by skfinley July 29, 2019
+https://www.thingiverse.com/thing:3778487
+
+4Max Pro BLTouch Cable Holder by neutr0n January 07, 2020
+https://www.thingiverse.com/thing:4090425
+
+## Reddit
+BLtouch on an Anycubic 4Max Pro
+https://www.reddit.com/r/3Dprinting/comments/g8tto3/bltouch_on_an_anycubic_4max_pro/
+
+Installed BLTouch last night. Here's things I wish I'd known.
+https://www.reddit.com/r/ender3/comments/c6n02e/installed_bltouch_last_night_heres_things_i_wish/
