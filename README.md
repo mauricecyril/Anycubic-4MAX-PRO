@@ -1,4 +1,4 @@
-# Anycubic-4MAX-PRO
+# Anycubic 4MAX PRO
 Settings and Notes Related to the Anycubic 4Max Pro 3D Printer.
 
 # Ultimaker Cura 4.4 Settings for the Anycubic 4Max Pro
