@@ -14,7 +14,7 @@ There is also a daughter board connected which has the pins for the end stops.
 Try to acquire a genuine BLTouch device as there are reports of clones generally failing or having quality issues.
 
 ### Remove Cover
-Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws and also remove the padded covers and remove additional 4 machine hex screws. 
+Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
 
 # Ultimaker Cura 4.4 Settings for the Anycubic 4Max Pro
 If "Origin at Center" is checked when slicing the printer seems to print off the printbed and in the lower left quadrant. Recommendation is to keep this setting unchecked. 
