@@ -107,8 +107,12 @@ https://www.thingiverse.com/thing:3778487
 https://www.thingiverse.com/thing:4090425
 
 ## Reddit
-BLtouch on an Anycubic 4Max Pro
+BLtouch on an Anycubic 4Max Pro by g8tto3
 https://www.reddit.com/r/3Dprinting/comments/g8tto3/bltouch_on_an_anycubic_4max_pro/
+https://web.archive.org/web/20221124154853/https://www.reddit.com/r/3Dprinting/comments/g8tto3/bltouch_on_an_anycubic_4max_pro/
 
 Installed BLTouch last night. Here's things I wish I'd known.
 https://www.reddit.com/r/ender3/comments/c6n02e/installed_bltouch_last_night_heres_things_i_wish/
+
+## Other references
+https://3dtoday.ru/blogs/darkcats/the-installation-of-the-level-sensor-table-bltouch3dtouch-and-clones-a
