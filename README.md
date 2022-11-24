@@ -1,6 +1,21 @@
 # Anycubic 4MAX PRO
 Settings and Notes Related to the Anycubic 4Max Pro 3D Printer.
 
+## Information 
+The heated bed of this printer tends to get warped and it becomes imposible to manually level the bed. The alternative is to add Mesh Leveling capabilities to this printer to make it usable.  
+
+The printer uses a trigorilla board v1.0 but please double check by opening up the base of the printer and check the mainboard (see https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/Beginner's-Guide-(English)#3-identification-of-the-mainboard ) 
+
+There is also a daughter board connected which has the pins for the end stops.
+
+## Adding BL Touch to the Anycubic 4Max Pro V1.0
+
+### Purchase a genuine BLTouch
+Try to acquire a genuine BLTouch device as there are reports of clones generally failing or having quality issues.
+
+### Remove Cover
+
+
 # Ultimaker Cura 4.4 Settings for the Anycubic 4Max Pro
 If "Origin at Center" is checked when slicing the printer seems to print off the printbed and in the lower left quadrant. Recommendation is to keep this setting unchecked. 
 
@@ -106,13 +121,25 @@ https://www.thingiverse.com/thing:3778487
 4Max Pro BLTouch Cable Holder by neutr0n January 07, 2020
 https://www.thingiverse.com/thing:4090425
 
+BLTouch and 3D Touch mount for Anycubic Mega S/X/P by Knutwurst October 25, 2021
+https://www.thingiverse.com/thing:5030218
+
 ## Reddit
 BLtouch on an Anycubic 4Max Pro by g8tto3
 https://www.reddit.com/r/3Dprinting/comments/g8tto3/bltouch_on_an_anycubic_4max_pro/
 https://web.archive.org/web/20221124154853/https://www.reddit.com/r/3Dprinting/comments/g8tto3/bltouch_on_an_anycubic_4max_pro/
 
+BLTouch Installation (english) from Marlin-2-0-x-Anycubic-i3-MEGA-S
+https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/BLTouch-Installation-(english)
+
+Beginner's Guide (English) from Marlin-2-0-x-Anycubic-i3-MEGA-S
+https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/Beginner's-Guide-(English)#3-identification-of-the-mainboard
+
 Installed BLTouch last night. Here's things I wish I'd known.
 https://www.reddit.com/r/ender3/comments/c6n02e/installed_bltouch_last_night_heres_things_i_wish/
+
+Help me recognizing Trigorilla board versions
+https://www.reddit.com/r/anycubic/comments/jns8l1/help_me_recognizing_trigorilla_board_versions/
 
 ## Other references
 https://3dtoday.ru/blogs/darkcats/the-installation-of-the-level-sensor-table-bltouch3dtouch-and-clones-a
