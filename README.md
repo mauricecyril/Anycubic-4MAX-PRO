@@ -30,6 +30,9 @@ Original BLTouch Wiring
 | Black (GND)   | Black (GND)  | Black (GND) on Daughter board |
 | White (Z axis Signal)  | White (Z axis Signal)  | White (Z axis Signal) on Daughter board  |
 
+### Print a custom mount
+
+
 ### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
 
