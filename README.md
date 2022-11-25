@@ -40,6 +40,13 @@ Find a suitable BLtouch mount or experiment with one of the following:
 | Ancycubic 4MaxPro Standard Fan BLtouch Mount v4.stl | X Offset = +54.87mm, Y Offset = -1.70mm, Z Offset = |
 | Ancycubic 4MaxPro Vortex Fan BLtouch Mount v2.stl | X Offset = , Y Offset = , Z Offset =  |
 
+Make sure to calibrate the location of the BLTouch Probe in relation to your nozzle.
+
+Remember the X,Y,Z are coordinates oriented when you're facing the front of the printer (ie. the door on the front of the 4Max Pro).
+Y axis is the movement towards and away from you. So +Y is moving the printer head away from you, -Y is moving the printer head towards you.
+X axis is the movement left and right of you. So +X is moving the printer head to the right, -X is moving the printer to the left.
+Z axis is the movement up and down. So +Z is moving the pritner head up away from the printer bed, -Z is moving the printer down towards the printer bed.
+
 ### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
 
