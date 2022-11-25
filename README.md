@@ -34,9 +34,11 @@ Original BLTouch Wiring
 | White (Z axis Signal)  | White (Z axis Signal)  | White (Z axis Signal) on Daughter board  |
 
 ### Print a custom mount
-Find a suitable BLtouch mount or experiment with one of the following
-Ancycubic 4MaxPro Standard Fan BLtouch Mount v4.stl
-Ancycubic 4MaxPro Vortex Fan BLtouch Mount v2.stl
+Find a suitable BLtouch mount or experiment with one of the following:
+| STL | Approximate Offset (Make sure to do your own calibration) | 
+| ------------- | ------------- |
+| Ancycubic 4MaxPro Standard Fan BLtouch Mount v4.stl | X Offset = +54.87mm, Y Offset = -1.70mm, Z Offset = |
+| Ancycubic 4MaxPro Vortex Fan BLtouch Mount v2.stl | X Offset = , Y Offset = , Z Offset =  |
 
 ### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
