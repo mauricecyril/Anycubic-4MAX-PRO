@@ -47,6 +47,12 @@ Y axis is the movement towards and away from you. So +Y is moving the printer he
 X axis is the movement left and right of you. So +X is moving the printer head to the right, -X is moving the printer to the left.
 Z axis is the movement up and down. So +Z is moving the pritner head up away from the printer bed, -Z is moving the printer down towards the printer bed.
 
+### Flash the appropriate firmware (if required)
+For example: Marlin 2.0.x for Anycubic 4Max Pro
+https://github.com/Poket-Jony/Marlin-A4MaxPro-2.0.x
+
+Make sure to configure the X,Y,Z offsets! Make sure to follow the post firmware installation calibration steps. 
+
 ### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
 
