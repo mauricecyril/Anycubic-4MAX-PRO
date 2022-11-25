@@ -1,6 +1,7 @@
 # Anycubic 4MAX PRO
 Settings and Notes Related to the Anycubic 4Max Pro 3D Printer.
- **WARNING**: USE AT YOUR OWN RISK! All information collected on this github is for research purposes and is NOT professional advice or should not be considered a definative source for understanding, modifying or configuring the Anycubic 4Max Pro 3d printer or any 3d printer. Please do your own research and make sure you understand the potential risks, loss or damage to your health, your 3d printer, your house or those around you should you use the Anycubic 4Max Pro or follow or use any of the settings, files or information provided on this github repository. You assume all responsibility and liability for any damage or harm that may occur by following the information aggregated and posted here. USE AT YOUR OWN RISK!
+
+### **WARNING**: USE AT YOUR OWN RISK! All information collected on this github is for research purposes and is NOT professional advice or should not be considered a definative source for understanding, modifying or configuring the Anycubic 4Max Pro 3d printer or any 3d printer. Please do your own research and make sure you understand the potential risks, loss or damage to your health, your 3d printer, your house or those around you should you use the Anycubic 4Max Pro or follow or use any of the settings, files or information provided on this github repository. You assume all responsibility and liability for any damage or harm that may occur by following the information aggregated and posted here. USE AT YOUR OWN RISK!
 
 ## Information 
 The heated bed of this printer tends to get warped and it becomes imposible to manually level the bed. The alternative is to add Mesh Leveling capabilities to this printer to make it usable.  
