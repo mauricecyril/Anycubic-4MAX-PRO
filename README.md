@@ -48,8 +48,8 @@ X axis is the movement left and right of you. So +X is moving the printer head t
 Z axis is the movement up and down. So +Z is moving the pritner head up away from the printer bed, -Z is moving the printer down towards the printer bed.
 
 ### Flash the appropriate firmware (if required)
-For example: Marlin 2.0.x for Anycubic 4Max Pro
-https://github.com/Poket-Jony/Marlin-A4MaxPro-2.0.x
+Knutwurst's i3 MEGA M/S/P/X/Chiron/4MP2 Hybrid Firmware (based on Marlin 2.1.x)
+https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/releases
 
 Make sure to compile your own version using the Arduino IDE and configure the X,Y,Z offsets! Make sure to follow the post firmware installation calibration steps. 
 
@@ -222,7 +222,10 @@ Still researching
 # Sources
 
 ## Github
-Marlin 2.0.x for Anycubic 4Max Pro
+Knutwurst's i3 MEGA M/S/P/X/Chiron/4MP2 Hybrid Firmware (based on Marlin 2.1.x)
+https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/releases
+
+Marlin 2.0.x for Anycubic 4Max Pro [Does not compile in Arduino]
 https://github.com/Poket-Jony/Marlin-A4MaxPro-2.0.x
 
 ## Thingiverse
