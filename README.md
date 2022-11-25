@@ -1,5 +1,6 @@
 # Anycubic 4MAX PRO
 Settings and Notes Related to the Anycubic 4Max Pro 3D Printer.
+ **WARNING**: USE AT YOUR OWN RISK! All information collected on this github is for research purposes and is NOT professional advice or should not be considered a definative source for understanding, modifying or configuring the Anycubic 4Max Pro 3d printer or any 3d printer. Please do your own research and make sure you understand the potential risks, loss or damage to your health, your 3d printer, your house or those around you should you use the Anycubic 4Max Pro or follow or use any of the settings, files or information provided on this github repository. You assume all responsibility and liability for any damage or harm that may occur by following the information aggregated and posted here. USE AT YOUR OWN RISK!
 
 ## Information 
 The heated bed of this printer tends to get warped and it becomes imposible to manually level the bed. The alternative is to add Mesh Leveling capabilities to this printer to make it usable.  
@@ -9,6 +10,7 @@ The printer uses a trigorilla board v1.0 but please double check by opening up t
 There is also a daughter board connected which has the pins for the end stops.
 
 ## Adding BL Touch to the Anycubic 4Max Pro V1.0
+ **WARNING**: USE AT YOUR OWN RISK! Please make sure to do your own configuration and conduct your own research before flashing your printers firmware, installing a BLTouch or configuring the BLtouch for the printer. I am not responsible for any potential risks, loss or damage to your health, your 3d printer, your house or those around you should you use the Anycubic 4Max Pro or follow or use any of the settings, files or information provided on this github repository. USE AT YOUR OWN RISK!
 
 ### Purchase a genuine BLTouch
 Try to acquire a genuine BLTouch device as there are reports of clones generally failing or having quality issues.
@@ -31,7 +33,9 @@ Original BLTouch Wiring
 | White (Z axis Signal)  | White (Z axis Signal)  | White (Z axis Signal) on Daughter board  |
 
 ### Print a custom mount
-
+Find a suitable BLtouch mount or experiment with one of the following
+Ancycubic 4MaxPro Standard Fan BLtouch Mount v4.stl
+Ancycubic 4MaxPro Vortex Fan BLtouch Mount v2.stl
 
 ### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
