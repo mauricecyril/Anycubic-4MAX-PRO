@@ -11,7 +11,7 @@ The printer uses a trigorilla board v1.0 but please double check by opening up t
 There is also a daughter board connected which has the pins for the end stops.
 
 ## Adding BL Touch to the Anycubic 4Max Pro V1.0
- **WARNING**: USE AT YOUR OWN RISK! Please make sure to do your own configuration and conduct your own research before flashing your printers firmware, installing a BLTouch or configuring the BLtouch for the printer. I am not responsible for any potential risks, loss or damage to your health, your 3d printer, your house or those around you should you use the Anycubic 4Max Pro or follow or use any of the settings, files or information provided on this github repository. USE AT YOUR OWN RISK!
+ **WARNING: USE AT YOUR OWN RISK! Please make sure to do your own configuration and conduct your own research before flashing your printers firmware, installing a BLTouch or configuring the BLtouch for the printer. I am not responsible for any potential risks, loss or damage to your health, your 3d printer, your house or those around you should you use the Anycubic 4Max Pro or follow or use any of the settings, files or information provided on this github repository. USE AT YOUR OWN RISK!**
 
 ### Purchase a genuine BLTouch
 Try to acquire a genuine BLTouch device as there are reports of clones generally failing or having quality issues.
