@@ -51,7 +51,7 @@ Z axis is the movement up and down. So +Z is moving the pritner head up away fro
 For example: Marlin 2.0.x for Anycubic 4Max Pro
 https://github.com/Poket-Jony/Marlin-A4MaxPro-2.0.x
 
-Make sure to configure the X,Y,Z offsets! Make sure to follow the post firmware installation calibration steps. 
+Make sure to compile your own version using the Arduino IDE and configure the X,Y,Z offsets! Make sure to follow the post firmware installation calibration steps. 
 
 ### Remove Bottom Cover
 Lay the printer flat so that the bottom cover is exposed. To remove the base plate remove the four hex machine screws (M3x12) and also remove the padded covers and remove additional 4 machine hex screws (M4x8). 
