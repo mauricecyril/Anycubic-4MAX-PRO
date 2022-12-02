@@ -270,6 +270,8 @@ https://www.reddit.com/r/anycubic/comments/jns8l1/help_me_recognizing_trigorilla
 ## Other references
 https://3dtoday.ru/blogs/darkcats/the-installation-of-the-level-sensor-table-bltouch3dtouch-and-clones-a
 
+Camera Mounts to adapt:
+https://www.thingiverse.com/thing:5147960
 
 ## Z - Offset Calibration
 Source: https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/BLTouch-Installation-(english)
