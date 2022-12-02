@@ -319,3 +319,27 @@ M851 Z-0.6 (be aware of the negative sign!)
 M500
 
 Carry out Autoleveling again via the display. Finished.
+
+
+### Start G-Code - Cura
+G21 ;metric values
+G90 ;absolute positioning
+M82 ;set extruder to absolute mode
+M107 ;start with the fan off
+M280 P0 S160 ; BLTouch alarm release
+G4 P100 ; delay for BLTouch
+G28 X0 Y0 ;move X/Y to min endstops
+G28 Z0 ;move Z to min endstops
+G28 ; home
+G29 ; auto bed leveling
+G1 X-3 Y40 ;Anycubic 4Max Pro Brush
+G1 X-3 Y5 ;Anycubic 4Max Pro Brush
+G1 X-3 Y40 ;Anycubic 4Max Pro Brush
+G1 X-3 Y5 ;Anycubic 4Max Pro Brush
+G1 Z15.0 F{speed_travel} ;move the platform down 15mm
+G92 E0 ;zero the extruded length
+G1 F200 E3 ;extrude 3mm of feed stock
+G92 E0 ;zero the extruded length again
+G1 F{speed_travel}
+M117 Printing...
+G5
