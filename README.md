@@ -38,7 +38,7 @@ Find a suitable BLtouch mount or experiment with one of the following:
 | STL | Approximate Offset (Make sure to do your own calibration) | 
 | ------------- | ------------- |
 | Ancycubic 4MaxPro Standard Fan BLtouch Mount v4.stl | X Offset = +54.87mm, Y Offset = -1.70mm, Z Offset = |
-| Ancycubic 4MaxPro Vortex Fan BLtouch Mount v2.stl | X Offset =+55.43mm , Y Offset =-2.0 (other readings say -7.91mm) , Z Offset =  (Probe extends 8.78mm - Distance from probe base to nozzle is 8.43mm). You might need to add a hex nut as a spacer to bring the probe lower. |
+| Ancycubic 4MaxPro Vortex Fan BLtouch Mount v2.stl | X Offset =+55.43mm , Y Offset =-2.0 (other readings say -7.91mm) , Z Offset = -3.58 or-3.52 (Probe extends 8.78mm - Distance from probe base to nozzle is 8.43mm). You might need to add a hex nut as a spacer to bring the probe lower. |
 
 Make sure to calibrate the location of the BLTouch Probe in relation to your nozzle.
 
