@@ -273,6 +273,8 @@ https://3dtoday.ru/blogs/darkcats/the-installation-of-the-level-sensor-table-blt
 
 ## Z - Offset Calibration
 Source: https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/BLTouch-Installation-(english)
+Also see: https://www.webcarpenter.com/blog/162-3D-Print---How-to-calibrate-Z-offset-with-a-BLTouch-bed-leveling-probe-sensor
+
 
 Example:
 
