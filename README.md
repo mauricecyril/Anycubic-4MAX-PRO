@@ -269,3 +269,29 @@ https://www.reddit.com/r/anycubic/comments/jns8l1/help_me_recognizing_trigorilla
 
 ## Other references
 https://3dtoday.ru/blogs/darkcats/the-installation-of-the-level-sensor-table-bltouch3dtouch-and-clones-a
+
+
+## Z - Offset Calibration
+Source: https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S/wiki/BLTouch-Installation-(english)
+
+
+Heat up the bed
+G28
+G90
+G1 Z10
+G1 X40 Y40 F4000
+M280 P0 S10
+G91
+Slowly lower the nozzle with G1 Z-1 or G1 Z-0.1 or G1 Z-0.02 until the sensor is triggered. NOT FURTHER!
+If the sensor has triggered and flashes: M280 P0 S160
+M114 = Current position of the nozzle -> note! (e.g. Recv: X:40.00 Y:40.00 Z:1.30 E:0.00 Count X:3200 Y:3200 Z:520)
+G90
+G1 X38 Y15 F4000 (values ​​from point 10 + offset of the sensor, i.e. X=40+(-2) and Y=40+(-25))
+G91
+Place a sheet of paper under the nozzle
+Slowly lower the nozzle with G1 Z-1 or G1 Z-0.1 or G1 Z-0.02 until the paper is difficult to move.
+M114 = Current position of the nozzle -> note! (e.g. Recv: X:38.00 Y:15.00 Z:0.70 E:0.00 Count X:3200 Y:3200 Z:520)
+Subtract the Z value from point 16 from that from point 10 -> 1.30 - 0.7 = 0.6 mm -> This is our Z offset.
+M851 Z-0.6 (be aware of the negative sign!)
+M500
+Carry out Autoleveling again via the display. Finished.
