@@ -120,8 +120,9 @@ Printer
         G91 ;relative positioning
         G1 E-1 F300 ;retract the filament a bit before lifting the nozzle, to release some of the pressure
         G1 Z+0.5 E-5 ;X-20 Y-20 F{speed_travel} ;move Z up a bit and retract filament even more
-        G28 X0 ;Y0 ;move X/Y to min endstops, so the head is out of the way
-        G1 Y180 F2000
+        G28 X0 Y0 ;move X/Y to min endstops, so the head is out of the way
+        G90
+        G1 Z120 F1000
         M84 ;steppers off
         G90
         M300 P300 S4000        
